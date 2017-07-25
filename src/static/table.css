@@ -1,0 +1,11 @@
+.table-top {
+    width: 80%;
+    margin-top: 1em;
+}
+
+.table-top th,
+.table-top td {
+    padding: 2px 5px;
+    margin: 1px;
+    border: 1px solid black;
+}

@@ -1,0 +1,34 @@
+{
+    "loadDate": "2017-07-12T04:00:00.000Z",
+    "materials": [{
+            "name": "light leather",
+            "id": 5124,
+            "quantity": 3,
+            "marketPrice": 12,
+            "minimumPrice": 6,
+            "twoWeekMedian": 13,
+            "dailySold": 39,
+            "dailyPosted": 40
+        },
+        {
+            "name": "medium leather",
+            "id": 64365,
+            "quantity": 123,
+            "marketPrice": 303,
+            "minimumPrice": 993,
+            "twoWeekMedian": 549,
+            "dailySold": 356,
+            "dailyPosted": 600
+        },
+        {
+            "name": "heavy leather",
+            "id": 345,
+            "quantity": 1300,
+            "marketPrice": 1500,
+            "minimumPrice": 890,
+            "twoWeekMedian": 1230,
+            "dailySold": 2512,
+            "dailyPosted": 2513
+        }
+    ]
+}

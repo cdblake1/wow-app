@@ -1,0 +1,34 @@
+{
+    "loadDate": "2017-07-12T04:00:00.000Z",
+    "materials": [{
+            "name": "dust",
+            "id": 123,
+            "quantity": 1,
+            "marketPrice": 10,
+            "minimumPrice": 7,
+            "twoWeekMedian": 13,
+            "dailySold": 25,
+            "dailyPosted": 25
+        },
+        {
+            "name": "shard",
+            "id": 456,
+            "quantity": 10,
+            "marketPrice": 100,
+            "minimumPrice": 70,
+            "twoWeekMedian": 130,
+            "dailySold": 250,
+            "dailyPosted": 250
+        },
+        {
+            "name": "crystal",
+            "id": 789,
+            "quantity": 100,
+            "marketPrice": 1000,
+            "minimumPrice": 700,
+            "twoWeekMedian": 1300,
+            "dailySold": 2500,
+            "dailyPosted": 2500
+        }
+    ]
+}
