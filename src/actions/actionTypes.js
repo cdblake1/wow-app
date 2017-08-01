@@ -1,0 +1,19 @@
+export const PROFFESION_SELECTED = 'PROFESSION_SELECTED';
+
+export const SERVER_SELECTED = 'SERVER_SELECTED';
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

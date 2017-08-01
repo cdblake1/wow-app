@@ -1,3 +1,8 @@
     .btn {
         margin-right: 5px;
+        text-transform: capitalize;
+    }
+    
+    .d-item {
+        text-transform: capitalize;
     }

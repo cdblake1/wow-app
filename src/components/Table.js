@@ -14,7 +14,6 @@ export default class Table extends React.Component {
         this.items = this.props.items;
     }
     render() {
-        console.log("this.headers ", this.headers);
         return (
             <table className="table table-bordered table-top">
                 <thead>
